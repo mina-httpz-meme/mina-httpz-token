@@ -1,0 +1,22 @@
+{
+  "adminContract": {
+    "privateKey": "",
+    "publicKey": ""
+  },
+  "feepayer": {
+    "privateKey": "",
+    "publicKey": ""
+  },
+  "tokenContract": {
+    "privateKey": "",
+    "publicKey": ""
+  },
+  "vaultContract": {
+    "privateKey": "",
+    "publicKey": ""
+  },
+  "manager": {
+    "privateKey": "",
+    "publicKey": ""
+  }
+}

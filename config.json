@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "deployAliases": {
+    "devnet": {
+      "networkId": "testnet",
+      "url": "https://api.minascan.io/node/devnet/v1/graphql",
+      "keyPath": "keys/devnet.json",
+      "fee": "0.12"
+    },
+    "mainnet": {
+      "networkId": "mainnet",
+      "url": "https://api.minascan.io/node/mainnet/v1/graphql",
+      "keyPath": "keys/mainnet.json",
+      "fee": "0.001"
+    }
+  }
+}
